@@ -1,5 +1,5 @@
 # Keep thinking, keep alive
-Until 2018-01-26 16:18:05, I have solved **1** / **686** problems while **126** are still locked.
+Until 2018-01-26 16:21:30, I have solved **1** / **686** problems while **126** are still locked.
 
 Completion statistic: 
 1. C++: 1
@@ -9,7 +9,7 @@ Note: :lock: means you need to buy a book from LeetCode
 ----------------
 ## LeetCode Solution Table
 | ID | Title | Difficulty | C++ |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |001|[Two Sum](https://leetcode.com/problems/two-sum/description/) |Easy|[C++](https://github.com/Itanq/LeetCode/blob/master/LeetCode/001.%20Two%20Sum/solution.cpp)|
 |002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) |Medium|To Do|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |Medium|To Do|
