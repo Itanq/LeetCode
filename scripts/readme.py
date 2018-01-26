@@ -16,7 +16,7 @@ class Config:
     """
     local_path = '/home/zmant/REPO/LeetCode'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/Itanq/Algorithms/blob/master/LeetCode/'
+    github_leetcode_url = 'https://github.com/Itanq/LeetCode/blob/master/Algorithms/'
     # solution of pat,　暂时还没写
     github_pat_url = 'https://github.com/Itanq/LeetCode/blob/master/pat-algorithms/'
     leetcode_url = 'https://leetcode.com/problems/'
