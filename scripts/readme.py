@@ -95,9 +95,9 @@ class TableInform:
     def __create_folder(self, oj_name):
         oj_algorithms = Config.local_path + '/' + oj_name
         if os.path.exists(oj_algorithms):
-            print(oj_name, ' algorithms is already exits')
+            print(oj_name, ' Algorithms is already exits')
         else:
-            print('creating {} algorithms....'.format(oj_name))
+            print('creating {} Algorithms....'.format(oj_name))
             os.mkdir(oj_algorithms)
         for item in self.table_item.values():
             question_folder_name = oj_algorithms + '/' + item.id_ + '. ' + item.title
